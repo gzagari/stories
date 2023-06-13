@@ -1,0 +1,28 @@
+---
+title: Great tool for deploy great software
+post_name: great-tool
+submitted_by: Giuseppe Zagari
+date: 2023-06-13T17:48.929+02:00
+tag_line: "Newsoft is one of the first civile engineering software company in
+  Italy since 1980 "
+image: https://www.newsoft-eng.it/Pub15/img/logons.png
+metadata:
+  organization: newsoft sas [www.newsoft-eng.it](https://www.newsoft-eng.it)
+  industries:
+    - Civil Engineering Software
+  programming_languages:
+    - C++
+  platforms:
+    - Windows
+  version_control_systems:
+    - SVN
+  build_tools:
+    - JENKINS
+map:
+  name: Giuseppe Zagari
+  location: Italy
+  latitude: 39.328235
+  longitude: 16
+body_content:
+  title: Software for structural analysis of buildings under seismic actions
+---
